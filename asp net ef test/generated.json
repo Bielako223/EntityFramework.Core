@@ -1,0 +1,62 @@
+[
+  {
+    "FirstName": "Le",
+    "LastName": "Mcneil",
+    "Age": 34,
+    "Addresses": [
+      {
+        "StreetAddress": "Otsego Street",
+        "City": "Wakarusa",
+        "State": "Michigan",
+        "ZipCode": "29"
+      },
+      {
+        "StreetAddress": "Heyward Street",
+        "City": "Shelby",
+        "State": "Montana",
+        "ZipCode": "30"
+      },
+      {
+        "StreetAddress": "Broadway ",
+        "City": "Wiscon",
+        "State": "Maryland",
+        "ZipCode": "31"
+      }
+    ],
+    "EmailAddresses": [
+      {
+        "EmailAddress": "lemcneil@puria.com"
+      }
+    ]
+  },
+  {
+    "FirstName": "Eve",
+    "LastName": "Fields",
+    "Age": 30,
+    "Addresses": [
+      {
+        "StreetAddress": "Coventry Road",
+        "City": "Thornport",
+        "State": "Pennsylvania",
+        "ZipCode": "29"
+      },
+      {
+        "StreetAddress": "Desmond Court",
+        "City": "Maury",
+        "State": "Louisiana",
+        "ZipCode": "29"
+      },
+      {
+        "StreetAddress": "Rutland Road",
+        "City": "Crown",
+        "State": "Kansas",
+        "ZipCode": "29"
+      }
+    ],
+    "EmailAddresses": [
+      {
+        "EmailAddress": "evefields@puria.com"
+      }
+    ]
+  }
+]

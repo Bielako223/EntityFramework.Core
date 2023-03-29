@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asp net ef test", "asp net ef test\asp net ef test.csproj", "{B7C4234C-21FC-44A6-829A-42753B147332}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFDataAccessLibrary", "EFDataAccessLibrary\EFDataAccessLibrary.csproj", "{3AD0B355-84C6-47D4-B3C2-97D50C4850D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7C4234C-21FC-44A6-829A-42753B147332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7C4234C-21FC-44A6-829A-42753B147332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7C4234C-21FC-44A6-829A-42753B147332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7C4234C-21FC-44A6-829A-42753B147332}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AD0B355-84C6-47D4-B3C2-97D50C4850D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AD0B355-84C6-47D4-B3C2-97D50C4850D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AD0B355-84C6-47D4-B3C2-97D50C4850D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AD0B355-84C6-47D4-B3C2-97D50C4850D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD42C164-E9EA-484F-AB7F-DA0E6F556003}
+	EndGlobalSection
+EndGlobal
